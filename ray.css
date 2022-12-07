@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+    display: grid;
+    place-items: center;
+}
+div{background-color: blueviolet;
+display: grid;
+place-items: center;
+width: 60%;
+border-radius: 30px;
+}
+.in{
+background-color: brown;
+border-radius: 50px;
+color: antiquewhite;
+width: 50%;
+height:40px;
+text-align: center;
+font-size: 25px;
+
+}
+h1{
+    color: chartreuse;
+    font-size: 35px;
+}
